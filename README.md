@@ -185,6 +185,7 @@ Push to GitHub and the `android-build.yml` workflow (see DEPLOYMENT.md) produces
 
 | | |
 |---|---|
+| **Student** | Muhammad Ashhad — 68669 |
 | **Student** | Vishaka Bharwanu — 69518 |
 | **Course** | Human–Computer Interaction & Graphics |
 | **Instructor** | Dr. Rizwan Munir |
